@@ -32,7 +32,7 @@ export const theme = {
 			focusShadow: '#7ccaff',
 
 			primaryForeground: 'foregroundPrimary',
-			primaryBackground: '#4F7EDF',
+			primaryBackground: '#599BFF',
 
 			segmentedButtonGroupBorder: '#46444F',
 			segmentedButtonGroupBackground: '#7a7a7a',
